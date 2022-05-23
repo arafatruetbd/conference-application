@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className='container'>
             <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex flex-row justify-content-between">
-                <div className='d-flex flex-row'>
+                <div className='d-flex flex-row text-decoration-none'>
                     <div class="p-2"><Link to="/" className='text-decoration-none'>Conference</Link></div>
                     <div class="p-2"><Link to="/" className='text-decoration-none'>Home</Link></div>
                 </div>

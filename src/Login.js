@@ -39,7 +39,7 @@ const Login = () => {
             <Row className='py-3'>
                 <Col>
                     New Customer?{' '}
-                    <Link to='/signup'>
+                    <Link to='/dashboard'>
                         SignUp
                     </Link>
                 </Col>
